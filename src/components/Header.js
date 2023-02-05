@@ -17,22 +17,12 @@ function Header() {
       </li>
       <li className="nav-item">
         <NavLink
-          to="about"
-          className={({ isActive }) =>
-            isActive ? 'nav-link active' : 'nav-link'
-          }
-        >
-          About
-        </NavLink>
-      </li>
-      <li className="nav-item">
-        <NavLink
           to="projectgallery"
           className={({ isActive }) =>
             isActive ? 'nav-link active' : 'nav-link'
           }
         >
-          Blog
+          Project Gallery
         </NavLink>
       </li>
       <li className="nav-item">
@@ -44,16 +34,6 @@ function Header() {
           }
         >
           Contact
-        </NavLink>
-      </li>
-      <li className="nav-item">
-        <NavLink
-          to="contact/learn"
-          className={({ isActive }) =>
-            isActive ? 'nav-link active' : 'nav-link'
-          }
-        >
-          Learn
         </NavLink>
       </li>
     </ul>

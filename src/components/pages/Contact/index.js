@@ -1,6 +1,4 @@
 import React from 'react';
-import { Link, Route, Routes } from 'react-router-dom';
-import Learn from './Learn';
 
 function Contact(props) {
   return (
@@ -28,12 +26,9 @@ function Contact(props) {
       <a href="Guilhermederetti9@gmail.com" role="button" className="btn btn-link">
       Guilhermederetti9@gmail.com
       </a>
-      <a href="" role="button" className="btn btn-link">
+      <p className="btn btn-link">
       Phone: +447784765260
-      </a>            
-      <Routes>
-        <Route path="learn" element={<Learn />} />
-      </Routes>
+      </p>            
     </div>
   );
 }
