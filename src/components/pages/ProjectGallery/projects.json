@@ -2,43 +2,43 @@
     {
         "id": 0,
         "name": "Weather Dashboard API",
-        "deployedLink": "jQuery, HTML, AJAX, BOOTSTRAP",
-        "gitHubLink": "",
-        "image": "/images/work.png"
+        "deployedLink": "https://guilhermederetti.github.io/Weather-Dashboard/",
+        "gitHubLink": "https://github.com/GuilhermeDeretti/Weather-Dashboard",
+        "image": "/images/weatherApp.png"
     },
     {
         "id": 1,
-        "name": "README Generator",
-        "deployedLink": "JS, nodeJS, HTML, BOOTSTRAP",
-        "gitHubLink": "",
-        "image": "/images/work.png"
+        "name": "Team Profile Generator",
+        "deployedLink": "https://github.com/GuilhermeDeretti/team-profile-generator/blob/main/output/team.html",
+        "gitHubLink": "https://github.com/GuilhermeDeretti/team-profile-generator",
+        "image": "/images/teamProfileGen.png"
     },
     {
         "id": 2,
         "name": "Random film picker",
-        "deployedLink": "jQuery, HTML, AJAX, BOOTSTRAP",
-        "gitHubLink": "",
-        "image": "/images/work.png"
+        "deployedLink": "https://guilhermederetti.github.io/Random-Film-Picker/",
+        "gitHubLink": "https://github.com/GuilhermeDeretti/Random-Film-Picker",
+        "image": "/images/randomFilmPicker.png"
     },
     {
         "id": 4,
         "name": "Daily Planner app",
-        "deployedLink": "jQuery, HTML, BOOTSTRAP",
-        "gitHubLink": "",
-        "image": "/images/work.png"
+        "deployedLink": "https://guilhermederetti.github.io/Daily-Planner-App/",
+        "gitHubLink": "https://github.com/GuilhermeDeretti/Daily-Planner-App",
+        "image": "/images/dailyPlanner.png"
     },
     {
         "id": 5,
         "name": "Random Password Generator",
-        "deployedLink": "JS, HTML, BOOTSTRAP",
-        "gitHubLink": "",
-        "image": "/images/work.png"
+        "deployedLink": "https://guilhermederetti.github.io/Password-Generator/",
+        "gitHubLink": "https://github.com/GuilhermeDeretti/Password-Generator",
+        "image": "/images/passwordGenerator.png"
     },
     {
         "id": 6,
         "name": "JavaScript Quizz",
-        "deployedLink": "JS, HTML, BOOTSTRAP",
-        "gitHubLink": "",
-        "image": "/images/work.png"
+        "deployedLink": "https://guilhermederetti.github.io/Code-Quiz/",
+        "gitHubLink": "https://github.com/GuilhermeDeretti/Code-Quiz",
+        "image": "/images/quiz.png"
     }
 ]
