@@ -4,7 +4,8 @@ import ProjectCard from "../ProjectCard";
 
 function ProjectGallery() {
   return (
-    <div className="Container">
+    <div className="row">
+      <div className="col-12">
       <h1>ProjectGallery</h1>
       <p>
         Donec a volutpat quam. Curabitur nec varius justo, sed rutrum ligula. Curabitur pellentesque
@@ -18,15 +19,18 @@ function ProjectGallery() {
         vehicula sit amet at augue. Maecenas aliquam bibendum congue. Pellentesque semper, lectus
         non ullamcorper iaculis, est ligula suscipit velit, sed bibendum turpis dui in sapien.
       </p>
-      {projects.map(project => (
-        <ProjectCard
-          key={project.id}
-          name={project.name}
-          deployedLink={project.deployedLink}
-          gitHubLink={project.gitHubLink}
-          image={project.image}
-        />
+      </div>
+      
+        {projects.map(project => (
+          <ProjectCard
+            key={project.id}
+            name={project.name}
+            deployedLink={project.deployedLink}
+            gitHubLink={project.gitHubLink}
+            image={project.image}
+          />
       ))}      
+      
     </div>
   );
 }

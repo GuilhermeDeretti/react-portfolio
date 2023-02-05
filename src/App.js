@@ -7,7 +7,7 @@ import Contact from './components/pages/Contact';
 function App() {
   return (
     <Router>
-      <div>
+      <div className="container">
         <Header />
         <Routes>
           <Route path="/" element={<Home />} />
