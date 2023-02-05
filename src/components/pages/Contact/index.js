@@ -19,12 +19,18 @@ function Contact(props) {
         conubia nostra, per inceptos himenaeos. Etiam ornare rutrum felis at
         rhoncus. Etiam vel condimentum magna, quis tempor nulla.
       </p>
-      <Link to="learn" role="button" className="btn btn-link">
-        Learn More
-      </Link>
-      <Link to="contact" role="button" className="btn btn-link">
-        Learn Less
-      </Link>
+      <a href="https://github.com/GuilhermeDeretti" role="button" className="btn btn-link">
+      GitHub Profile
+      </a>
+      <a href="https://www.linkedin.com/in/guilherme-deretti-752121100" role="button" className="btn btn-link">
+      LinkedIn Page
+      </a>
+      <a href="Guilhermederetti9@gmail.com" role="button" className="btn btn-link">
+      Guilhermederetti9@gmail.com
+      </a>
+      <a href="" role="button" className="btn btn-link">
+      Phone: +447784765260
+      </a>            
       <Routes>
         <Route path="learn" element={<Learn />} />
       </Routes>

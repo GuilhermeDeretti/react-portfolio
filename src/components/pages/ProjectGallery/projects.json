@@ -1,0 +1,44 @@
+[
+    {
+        "id": 0,
+        "name": "Weather Dashboard API",
+        "deployedLink": "jQuery, HTML, AJAX, BOOTSTRAP",
+        "gitHubLink": "",
+        "image": "/images/work.png"
+    },
+    {
+        "id": 1,
+        "name": "README Generator",
+        "deployedLink": "JS, nodeJS, HTML, BOOTSTRAP",
+        "gitHubLink": "",
+        "image": "/images/work.png"
+    },
+    {
+        "id": 2,
+        "name": "Random film picker",
+        "deployedLink": "jQuery, HTML, AJAX, BOOTSTRAP",
+        "gitHubLink": "",
+        "image": "/images/work.png"
+    },
+    {
+        "id": 4,
+        "name": "Daily Planner app",
+        "deployedLink": "jQuery, HTML, BOOTSTRAP",
+        "gitHubLink": "",
+        "image": "/images/work.png"
+    },
+    {
+        "id": 5,
+        "name": "Random Password Generator",
+        "deployedLink": "JS, HTML, BOOTSTRAP",
+        "gitHubLink": "",
+        "image": "/images/work.png"
+    },
+    {
+        "id": 6,
+        "name": "JavaScript Quizz",
+        "deployedLink": "JS, HTML, BOOTSTRAP",
+        "gitHubLink": "",
+        "image": "/images/work.png"
+    }
+]
