@@ -2,7 +2,7 @@ import React from "react";
 
 function Home() {
   return (
-    <div className="jumbotron">
+    <div className="jumbotron bg-dark">
       <h1 className="display-4">Guilherme Deretti</h1>
       <img src="http://placekitten.com/200/300" alt="..." className="img-thumbnail"></img>
       <p className="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque velit, lobortis ut magna
