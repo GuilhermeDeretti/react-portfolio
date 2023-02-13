@@ -10,10 +10,10 @@ function App() {
       <div className="container">
         <Header />
         <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="projectgallery" element={<ProjectGallery />} />
+          <Route path="react-portfolio/" element={<Home />} />
+          <Route path="react-portfolio/projectgallery" element={<ProjectGallery />} />
           {/* Define a route that will have descendant routes */}
-          <Route path="contact/*" element={<Contact />} />
+          <Route path="react-portfolio/contact" element={<Contact />} />
         </Routes>
       </div>
     </Router>
